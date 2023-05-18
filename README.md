@@ -7,6 +7,7 @@ Trabajo desarrollado en el Certified Tech Developer en Digital House. 2022.
 ## Ver la presentación del Figma
 https://www.figma.com/proto/cLwa5aOfLriqmy5g1UAPpk/C9-E6-%E2%8F%A4--Museos-y-espacios-culturales?node-id=905-347&scaling=scale-down&page-id=905%3A297&starting-point-node-id=905%3A347&hotspot-hints=0
 
+![app](https://github.com/Wilalz/Artzia-museum-UXUI-React/blob/main/Artzia%20App%20Museums.jpg)
 
 ## Using
 UX/UI\
