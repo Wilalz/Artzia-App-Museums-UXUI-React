@@ -9,13 +9,13 @@ https://www.figma.com/proto/cLwa5aOfLriqmy5g1UAPpk/C9-E6-%E2%8F%A4--Museos-y-esp
 
 
 ## Using
-UX/UI
-Figma
-HTML
-CSS
-JavaScript
-React
-Material 2 Design Kit By Material Design (Figma)
+UX/UI.
+Figma.
+HTML.
+CSS.
+JavaScript.
+React.
+Material 2 Design Kit By Material Design (Figma).
 
 
 # Participantes
