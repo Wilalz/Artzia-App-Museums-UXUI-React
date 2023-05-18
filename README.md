@@ -24,10 +24,10 @@ Sergio Guerrero\
 Sergio González\
 Santiago Forero\
 Silvio Suarez\
-Wilson Alzate\
 Nicolas Saenz\
 Nicolas Montes\
 Ihancker Martínez\
+Wilson Alzate\
 
 
 ## Contacto
