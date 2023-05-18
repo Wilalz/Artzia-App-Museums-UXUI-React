@@ -9,25 +9,25 @@ https://www.figma.com/proto/cLwa5aOfLriqmy5g1UAPpk/C9-E6-%E2%8F%A4--Museos-y-esp
 
 
 ## Using
-UX/UI.
-Figma.
-HTML.
-CSS.
-JavaScript.
-React.
-Material 2 Design Kit By Material Design (Figma).
+UX/UI\
+Figma\
+HTML\
+CSS\
+JavaScript\
+React\
+Material 2 Design Kit By Material Design (Figma)
 
 
 # Participantes
-Stiven Molina Gonzalez
-Sergio Guerrero
-Sergio González
-Santiago Forero
-Silvio Suarez
-Wilson Alzate
-Nicolas Saenz
-Nicolas Montes
-Ihancker Martínez
+Stiven Molina Gonzalez\
+Sergio Guerrero\
+Sergio González\
+Santiago Forero\
+Silvio Suarez\
+Wilson Alzate\
+Nicolas Saenz\
+Nicolas Montes\
+Ihancker Martínez\
 
 
 ## Contacto
