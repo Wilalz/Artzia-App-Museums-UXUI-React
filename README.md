@@ -32,4 +32,4 @@ Wilson Alzate\
 
 
 ## Contacto
-https://www.linkedin.com/in/wilson-alzate-pineda/
+[LinkedIn](https://www.linkedin.com/in/wilson-alzate-pineda/)
