@@ -29,11 +29,11 @@ Silvio Suarez\
 Nicolas Saenz\
 Nicolas Montes\
 Ihancker Martínez\
-Wilson Alzate\
+Wilson Alzate
 
 ## Contacto
 [Wilson Alzate (LinkedIn)](https://www.linkedin.com/in/wilson-alzate-pineda/)
 
 
 
- .
+## .
