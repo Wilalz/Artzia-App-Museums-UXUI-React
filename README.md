@@ -1,4 +1,4 @@
-# Artzia Museums App
+# Artzia App Museums
 Creacion de app para agendar citas y recorridos en museos, con el objetivo de lograr una experiencia mas facil y dinamica para los usuarios de museos, exposiciones y galerias de arte.
 Mediante metodología de Design thinking se busca crear un escenario hipotetico y aplicar las etapas de Empatizar, Definir, Idear, Prototipar y Evaluar sobre un producto digital (app).
 Definicion de un sistema de diseño para manejar coherencia visual y contrucción de prototipos de baja, media y alta.
