@@ -16,7 +16,7 @@ HTML\
 CSS\
 JavaScript\
 React\
-Material 2 Design Kit By Material Design (Figma)
+Figma - Material Design
 
 
 ## Participantes
