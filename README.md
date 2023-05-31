@@ -11,9 +11,9 @@ Trabajo desarrollado en el Certified Tech Developer en Digital House. 2022.
 ![app](https://github.com/Wilalz/Artzia-museum-UXUI-React/blob/main/Artzia%20App%20Museums.jpg)
 
 ## Instalación
-Clone or Download\
-install dependencies with "npm install"\
-Run the app with "npm run dev"\
+Clona o descarga el repósitorio\
+Instala las dependencias con "npm install"\
+Inicia la app con "npm run dev"
 
 ## Tecnologias utilizadas
 UX/UI | Figma | HTML | CSS | JavaScript | React | Figma - Material Design
@@ -30,4 +30,4 @@ Ihancker Martínez\
 Wilson Alzate\
 
 ## Contacto
-[LinkedIn Wilson Alzate](https://www.linkedin.com/in/wilson-alzate-pineda/)
+[Wilson Alzate (LinkedIn)](https://www.linkedin.com/in/wilson-alzate-pineda/)
